@@ -1,5 +1,6 @@
 {
   "name": "dut-asu-front-end",
+  "description": "Тест react-приложения",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
